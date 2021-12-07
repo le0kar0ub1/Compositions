@@ -12,6 +12,11 @@
 \layout { 
   indent = 0.0\cm 
   #(layout-set-staff-size 21)
+  \context {
+    \Score
+    \override Glissando.thickness = #3
+    \override SpacingSpanner.common-shortest-duration = #(ly:make-moment 1/16)
+  }
 }
 \markup { 
   \vspace #1
