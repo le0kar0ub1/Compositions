@@ -27,7 +27,7 @@ harmTwelveMarkup = \fermata-\markup { \center-align \abs-fontsize #8 { harm. 12 
 
 chorus = {
   <c c'>8 e b8([ c') g] b8([ c') g] |
-  <g, d'>8 d b8([ d') a] b8([ c') r] |
+  <g, d'>8 d b8([ d') a] b8( c'4) | 
   <a, c'>8 e b8([ c') a] b8([ c') d'~] |
   d'2 <d f-sharp'>4 a4 | 
   e'8([ f-sharp') c'] e'8([ f-sharp') c'] a'4 |
