@@ -38,9 +38,20 @@ intro = {
 }
 
 chorus = {
-    <g, d g>4 d8[ g(a()g)] c'[ b]
+    <g, d g>4 d8[ g(a()g)] c'([ b)] | 
     <g, g d'>4 d8[ b(d') e'\2] d'([ b)] |
     <g, b>4 d8[ b(c'()b)] a8[ b] |
+    <d f-sharp'>4 a8[ d' a] f-sharp'[ a' \glissando b'] |
+    <g, b'>8 d8[ a' <g e'> g' <d f-sharp'>]
+    b[ <d a'>] a8[ d' a] a'[ \glissando b' g' a'( e')] |
+
+    <g, d g>4 d8[ g(a()g)] c'[ e'] |
+    <g, g d'>4 d8[ b(d') e'\2] d'([ b)] |
+    <g, b>4 d8[ b(c'()b)] a8[ d'] |
+    <d f-sharp'>4 a8[ d' a] f-sharp'[ a' \glissando b'] |
+    <g, b'>8 d8[ a' <g e'> g' <d f-sharp'>]
+    c-sharp[ <d a'>] a8[ d' a] a'[ \glissando b' a' g'( e')] |
+
     <g, b>4 d8[ b(c'()b)] a8([ g)] |
 }
 
