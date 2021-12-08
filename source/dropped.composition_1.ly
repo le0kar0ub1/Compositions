@@ -1,9 +1,9 @@
 \version "2.22.1"
 \include "english.ly"
 \header {
-  title = "Composition - 1"
-  subtitle = ""
-  instrument = "Acoustic guitar"
+  title = "Dropped"
+  subtitle = "Composition - 1"
+  instrument = "Acoustic guitar (steel)"
   meter = "Tuning: EADGBE"
   arranger = "Leo Karoubi"
   % composer = "Leo Karoubi"
@@ -15,6 +15,7 @@
   \context {
     \Score
     \override Glissando.thickness = #3
+    \override Glissando.style = #'trill
     \override SpacingSpanner.common-shortest-duration = #(ly:make-moment 1/16)
   }
 }
