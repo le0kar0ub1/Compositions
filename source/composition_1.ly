@@ -51,7 +51,7 @@ verse = {
 
 outro = {
   g,8[ d g d' g' d' g d g,] 
-  \arpeggioArrowDown<g, d g d' g'>1\arpeggio\fermata
+  \arpeggioArrowUp<d g d' g'>1\arpeggio\fermata
 }
 
 
