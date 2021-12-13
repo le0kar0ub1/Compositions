@@ -66,6 +66,7 @@ outro = {
 
 full_part = {
     % \tempo 4 = 60
+    \time \timeSign
     \intro
     \verse
     \outro
@@ -78,12 +79,10 @@ full_part = {
     <<
     \new Staff {
         \clef "G"
-        \time \timeSign
         \full_part
     }
     \new TabStaff {
         \set TabStaff.minimumFret = #0
-        \time \timeSign
         \tabFullNotation
         \full_part
     }

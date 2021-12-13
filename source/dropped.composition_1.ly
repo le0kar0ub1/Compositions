@@ -57,6 +57,7 @@ outro = {
 
 
 full_part = {
+  \time \timeSign
   \chorus
   \verse
   \chorus
@@ -70,13 +71,11 @@ full_part = {
   <<
   \new Staff {
     \clef "G"
-    \time \timeSign
     \full_part
   }
   \new TabStaff {
     \set TabStaff.minimumFret = #0
     \tabFullNotation
-    \time \timeSign
     \full_part
   }
   >>
