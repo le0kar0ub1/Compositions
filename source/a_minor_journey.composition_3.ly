@@ -39,15 +39,18 @@ chorus = {
 }
 
 first_verse = {
-  \arpeggioArrowDown<a\4 e'\3 a'\2 c''>1\arpeggio | e'8\3[ a'\2 c''] e'8\3[ a'\2 c''] e'8\3[ a'\2] | c''4 d''2. |
-  \arpeggioArrowDown<a\5 d'\4 f'\3 a'\2 d''>1\arpeggio | f'8\3[ a'\2 d''] f'8\3[ a'\2 d''] f'8\3[ a'\2] | d''4 c''2. |
-  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ c''] |
-  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ d''] |
-  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ b'] |
+  \arpeggioArrowDown<e\5 b\4 e'\3 g'\2 b'>1\arpeggio | e'8\3[ g'\2 b'] e'8\3[ g'8\2( f-sharp'\2)] e'8\3[ d'\3] |
 
-  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ d''] |
-  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ e''] |
-  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ e'] |
+  <a, e'>8[ e a] c'8([ b]) a8 g4 |
+  <d f'>8[ a d'] f'8([ e']) d'8 c'4 |
+  <e, g>8[ b, e] g([ g-sharp)] e8 d4 |
+
+  <e\5 b'>8[ b\4 e'\3] g'8\2[( f-sharp'\2)] e'8\3 d'4\3 |
+
+  <a, e'>8[ e a] c'8([ b]) a8 g4 |
+  <d f'>8[ a d'] f'8([ e']) d'8 c'4 |
+  <e, g>8[ b, e] g([ g-sharp)] e8 d4 |
+  e2.\fermata e'4 |
 }
 
 bridge = {
@@ -62,21 +65,13 @@ second_verse = {
   a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ d''] |
   b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ b'] |
 
-  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ e\harmonic\harmTwelveMarkup]
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ d''] |
+  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ e''] |
+  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ e'] |
+
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ e\harmonic\harmTwelveMarkup] |
   a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ b\harmonic\harmTwelveMarkup] |
   b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ <g\harmonic b\harmonic>\harmSevenMarkup] |
-  % \arpeggioArrowDown<e\5 b\4 e'\3 g'\2 b'>1\arpeggio | e'8\3[ g'\2 b'] e'8\3[ g'8\2( f-sharp'\2)] e'8\3[ d'\3] |
-
-  % <a, e'>8 e8[ a] c'8([ b]) a8 g4 |
-  % <d f'>8 a8[ d'] f'8([ e']) d'8 c'4 |
-  % <e, g>8 b,8[ e] g([ g-sharp)] e8 d4 |
-
-  % <e\5 b'>8 b8\4[ e'\3] g'8\2[( f-sharp'\2)] e'8\3 d'4\3 |
-
-  % <a, e'>8 e8[ a] c'8([ b]) a8 g4 |
-  % <d f'>8 a8[ d'] f'8([ e']) d'8 c'4 |
-  % <e, g>8 b,8[ e] g([ g-sharp)] e8 d4 |
-  % e2\fermata \arpeggioArrowDown<b, e g-sharp b e'>2\arpeggio |
 }
 
 full_part = {
