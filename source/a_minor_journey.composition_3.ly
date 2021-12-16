@@ -25,31 +25,68 @@
 }
 
 timeSign = 4/4
-harmTwelveMarkup = -\markup { \center-align \abs-fontsize #8 { 12 }}
-harmSevenMarkup = -\markup { \center-align \abs-fontsize #8 { 7 }}
+harmTwelveMarkup = -\markup { \center-align \abs-fontsize #8 { harm .12 }}
+harmSevenMarkup = -\markup { \center-align \abs-fontsize #8 { harm .7 }}
 
 rallentendo = -\markup { \abs-fontsize #10 { rallentendo }}
 
-intro = {
-  \arpeggioArrowDown<g\4 c'\3 e'\2 b'>2\arpeggio c'8\3[ e'\2] b'4 | c'8\3[ e'\2] b'4 c'8\3[ e'\2] a'8[ b'] | e''1\fermata |
-  \arpeggioArrowDown<c'\4 f'\3 a'\2 e''>2\arpeggio f'8\3[a'\2] e''4 | f'8\3[a'\2] e''4 f'8\3[a'\2] e''8[ d''] | c''1\fermata |
-  \arpeggioArrowDown<a e'\3 f'\2 c''>2\arpeggio e'8\3[ f'\2]  c''4 | e'8\3[ f'\2] c''4 e'8\3[ f'\2] c''[ b'] | a'1\fermata | 
-  \arpeggioArrowDown<f a-sharp d' a'>2\arpeggio a-sharp8[ d'] a'4 | a-sharp8[ d'] a'4 a-sharp8[ d'] a'8[ g'] e'1\fermata |
+chorus = {
+  \arpeggioArrowDown<g\4 c'\3 e'\2 b'>1\arpeggio | c'8\3[ e'\2 b'] c'8\3[ e'\2 b'] c'8\3[ e'\2] | a'4 b'4 e''2\fermata |
+  \arpeggioArrowDown<c'\4 f'\3 a'\2 e''>1\arpeggio | f'8\3[a'\2 e''] f'8\3[a'\2 e''] f'8\3[a'\2] | e''4 d''4 c''2\fermata |
+  \arpeggioArrowDown<a e'\3 f'\2 c''>1\arpeggio | e'8\3[ f'\2 c''] e'8\3[ f'\2 c''] e'8\3[ f'\2] | c''4 a'2.\fermata | 
+  \arpeggioArrowDown<f a-sharp d' a'>1\arpeggio | a-sharp8[ d' a'] a-sharp8[ d' a'] a-sharp8[ d'] | a'4 g'4 e'2\fermata |
   \arpeggioArrowDown<a, e a c-sharp' e'>1\arpeggio
-
 }
 
-verse = {
+first_verse = {
+  \arpeggioArrowDown<a\4 e'\3 a'\2 c''>1\arpeggio | e'8\3[ a'\2 c''] e'8\3[ a'\2 c''] e'8\3[ a'\2] | c''4 d''2. |
+  \arpeggioArrowDown<a\5 d'\4 f'\3 a'\2 d''>1\arpeggio | f'8\3[ a'\2 d''] f'8\3[ a'\2 d''] f'8\3[ a'\2] | d''4 c''2. |
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ c''] |
+  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ d''] |
+  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ b'] |
 
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ d''] |
+  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ e''] |
+  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ e'] |
 }
 
-outro = {
+bridge = {
+  g'4 a'4 \glissando( b'2)
+}
+
+second_verse = {
+  \arpeggioArrowDown<a\4 e'\3 a'\2 c''>1\arpeggio | e'8\3[ a'\2 c''] e'8\3[ a'\2 c''] e'8\3[ a'\2] | c''4 d''2. |
+  \arpeggioArrowDown<a\5 d'\4 f'\3 a'\2 d''>1\arpeggio | f'8\3[ a'\2 d''] f'8\3[ a'\2 d''] f'8\3[ a'\2] | d''4 c''2. |
+
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ c''] |
+  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ d''] |
+  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ b'] |
+
+  a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ e\harmonic\harmTwelveMarkup]
+  a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ b\harmonic\harmTwelveMarkup] |
+  b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ <g\harmonic b\harmonic>\harmSevenMarkup] |
+  % \arpeggioArrowDown<e\5 b\4 e'\3 g'\2 b'>1\arpeggio | e'8\3[ g'\2 b'] e'8\3[ g'8\2( f-sharp'\2)] e'8\3[ d'\3] |
+
+  % <a, e'>8 e8[ a] c'8([ b]) a8 g4 |
+  % <d f'>8 a8[ d'] f'8([ e']) d'8 c'4 |
+  % <e, g>8 b,8[ e] g([ g-sharp)] e8 d4 |
+
+  % <e\5 b'>8 b8\4[ e'\3] g'8\2[( f-sharp'\2)] e'8\3 d'4\3 |
+
+  % <a, e'>8 e8[ a] c'8([ b]) a8 g4 |
+  % <d f'>8 a8[ d'] f'8([ e']) d'8 c'4 |
+  % <e, g>8 b,8[ e] g([ g-sharp)] e8 d4 |
+  % e2\fermata \arpeggioArrowDown<b, e g-sharp b e'>2\arpeggio |
 }
 
 full_part = {
-    \intro
-    \verse
-    \outro
+    \chorus
+    \first_verse
+    \bridge
+    \chorus
+    \second_verse
+    \bridge
+    \chorus
 }
 
 \score {
