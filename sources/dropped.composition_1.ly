@@ -3,7 +3,7 @@
 \header {
   title = "Dropped"
   subtitle = "Composition - 1"
-  instrument = "Acoustic guitar (steel)"
+  instrument = "Acoustic guitar"
   meter = "Tuning: EADGBE"
   arranger = "Leo Karoubi"
   % composer = "Leo Karoubi"

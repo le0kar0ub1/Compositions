@@ -74,6 +74,14 @@ second_verse = {
   b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ <g\harmonic b\harmonic>\harmSevenMarkup] |
 }
 
+last_chorus = {
+  \arpeggioArrowDown<g\4 c'\3 e'\2 b'>1\arpeggio | c'8\3[ e'\2 c'\3 b'] c'8\3[ e'\2 c'\3 a'] | b'4 e''2.\fermata |
+  \arpeggioArrowDown<c'\4 f'\3 a'\2 e''>1\arpeggio | f'8\3[a'\2 f'\3 e''] f'8\3[a'\2 f'\3 e''] | d''4 c''2.\fermata |
+  \arpeggioArrowDown<a e'\3 f'\2 c''>1\arpeggio | e'8\3[ f'\2 e'\3 c''] e'8\3[ f'\2 e'\3 c''(] | c''4) a'2.\fermata | 
+  \arpeggioArrowDown<f a-sharp d' a'>1\arpeggio | a-sharp8[ d' a'] a-sharp8[ d' a'] a-sharp8[ d'] | a'4 g'4 e'2\fermata |
+  \arpeggioArrowDown<a, e a c-sharp' e'>1\arpeggio
+}
+
 full_part = {
     \chorus
     \first_verse
@@ -81,7 +89,7 @@ full_part = {
     \chorus
     \second_verse
     \bridge
-    \chorus
+    \last_chorus
 }
 
 \score {

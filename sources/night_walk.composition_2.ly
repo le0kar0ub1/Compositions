@@ -3,7 +3,7 @@
 \header {
   title = "Night Walk"
   subtitle = "Composition - 2"
-  instrument = "Acoustic guitar (nylon)"
+  instrument = "Acoustic guitar"
   meter = "Tuning: EADGBE"
   arranger = "Leo Karoubi"
   % composer = "Leo Karoubi"
@@ -36,7 +36,7 @@ intro = {
     <c e'>4 e8[ g e] e'8([f'()e')] |
     <g, d'>8 d8[ g d]  d'8[\glissando e'\2 g' b] |
     <a, c'>8 e8[a e]  c'8[\glissando d' c'( b)] |
-    \> <f-sharp, a>8^\rallentendo a,8[d a,] a8[\glissando b\3 a( g~)] |
+    <f-sharp, a>8^\rallentendo \> a,8[d a,] a8[\glissando b\3 a( g~)] |
     g1\fermata \! |
 }
 
