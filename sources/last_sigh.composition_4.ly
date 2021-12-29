@@ -59,7 +59,7 @@ verse = {
 }
 
 bridge = {
-  \arpeggioArrowDown<c-sharp'' a\4 f-sharp'\2 d'\3>4\arpeggio d'8\3[ f-sharp'\2 c-sharp'']  b'8[c-sharp'' d'']
+  \arpeggioArrowDown<c-sharp'' a\4 f-sharp'\2 d'\3>4\arpeggio c-sharp''8[ f-sharp'\2 d'8\3]  b'8[c-sharp'' d'']
 }
 
 full_part = {
