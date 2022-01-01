@@ -62,8 +62,8 @@ verse = {
   d8[ a c'] f'8[ c' a] d8[ a c'] f'8[ g' a'] |
   d8[ g b] g'[ b g] d8[ g b] e'[ b g] |
   g'8[ a' b'] g8\4[ c'\3 e'\2] a'8[ e'\2 c'\3]  g8\4[ c'\3 e'\2] |
-  a'[ b' c''] d8[ g b] b'8[ b g] d8[ g b] |
-  b'[ c'' c-sharp''] a-sharp8\4[ d-sharp'\3 g'\2] d''[ g'\2 d-sharp'\3] a-sharp8\4[ d-sharp'\3 g'\2] |
+  a'8[ b' c''] d8[ g b] b'8[ b g] d8[ g b] |
+  b'8[ d'' e''] d8[ g b d''] b8[ g] e''8[ b g] | 
   d8[ a c'] f'8[ c' a] d8[ a c'] f'8[ g' a'] |
   d8[ g b] g'[ b g] d8[ g b] g'8[ a' b'] |
 }
