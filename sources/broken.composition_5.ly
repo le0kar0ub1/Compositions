@@ -74,7 +74,11 @@ bridge = {
 }
 
 outro = {
-  \intro_first
+  b,8[ e g] b8[ g e] d'[ g e] b4. |
+  g,8[ d g] b8[ g d] b8[ a d] d'4. |
+  c8[ e g]  c'8[ g e] d'8[ g e] b4. |
+  e,8[ e g] e'8[ b g] g'8[ b g] a'4. |
+  g,8[ d g] b8[ g d] b8[ a d b] g4 |
 }
 
 full_part = {
