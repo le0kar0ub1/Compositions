@@ -61,10 +61,6 @@ second_verse = {
   \arpeggioArrowDown<a\4 e'\3 a'\2 c''>1\arpeggio | e'8\3[ a'\2 c''] e'8\3[ a'\2 c''] e'8\3[ a'\2] | c''4 d''2. |
   \arpeggioArrowDown<a\5 d'\4 f'\3 a'\2 d''>1\arpeggio | f'8\3[ a'\2 d''] f'8\3[ a'\2 d''] f'8\3[ a'\2] | d''4 c''2. |
 
-  % a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ c''] |
-  % a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ d''] |
-  % b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ b'] |
-
   a8\4[ e'8\3] a8\4[ c''] a8\4[ e'8\3] a8\4[ d''] |
   a8\5[d'\4] a8\5[ d''] a8\5[d'\4] a8\5[ e''] |
   b8\4[ e'\3] b8\4[ b'] b8\4[ e'\3] b8\4[ e'] |
@@ -77,7 +73,7 @@ second_verse = {
 last_chorus = {
   \arpeggioArrowDown<g\4 c'\3 e'\2 b'>1\arpeggio | c'8\3[ e'\2 c'\3 b'] c'8\3[ e'\2 c'\3 a'] | b'4 e''2.\fermata |
   \arpeggioArrowDown<c'\4 f'\3 a'\2 e''>1\arpeggio | f'8\3[a'\2 f'\3 e''] f'8\3[a'\2 f'\3 e''] | d''4 c''2.\fermata |
-  \arpeggioArrowDown<a e'\3 f'\2 c''>1\arpeggio | e'8\3[ f'\2 e'\3 c''] e'8\3[ f'\2 e'\3 c''(] | c''4) a'2.\fermata | 
+  \arpeggioArrowDown<a e'\3 f'\2 c''>1\arpeggio | a8\4[e'8\3 a\4 c''] a8\4[e'8\3 a\4 c''(] | c''4) a'2.\fermata | 
   \arpeggioArrowDown<f a-sharp d' a'>1\arpeggio | a-sharp8[ d' a'] a-sharp8[ d' a'] a-sharp8[ d'] | a'4 g'4 e'2\fermata |
   \arpeggioArrowDown<a, e a c-sharp' e'>1\arpeggio
 }
