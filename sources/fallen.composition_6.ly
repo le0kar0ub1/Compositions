@@ -66,6 +66,11 @@ main = {
     <g\4 b'>2 b'2 |
     <g\4 b'>2 b'2 |
     
+    b'8[ c-sharp''] d''4 <b\4 d''>2 |
+    d''4 e''4 <a\4 c-sharp''>4 c-sharp''4 |
+    d''4 <g\4 b'>2 b'4 |
+    <g\4 b'>2 b'2 |
+
     r2 b'4\3 c-sharp''8\2[ d''\2] |
 
     <b\4 f-sharp'\3 d''>1 |
@@ -88,8 +93,11 @@ outro = {
     
     b8\3[ c-sharp'] d'4 <b, d'>2 |
     e'4 <a, c-sharp'>2 e'4 |
-    <g, b>1 |
     
+    <g, b>2 <b, d'>2 |
+    <a, c-sharp'>2 <g, b>2 |
+
+    <g, b>1 |
     <b, d'>1 |
     <a, c-sharp'>1 |
     <g, b>1 |
