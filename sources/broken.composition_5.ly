@@ -53,8 +53,8 @@ intro = {
 chorus = {
   c8[ g b] e'8[ b g] c8[ g b] g'8[ f' e'] |
   f8[ a c'] e'8[ c' a] f8[ a c'] g'8[ f' e'] |
-  c8[ g b] e'8[ b g] c8[ g b] d'8[ c' b] |
-  f8[ a c'] e'8[ c' a] f8[ a c'] d'8[ c' b] |
+  c8[ g b] e'8[ b g] c8[ g e'] d'8[ c' b] |
+  f8[ a c'] e'8[ c' a] f8[ a e'] d'8[ c' b] |
   c8[ g b] e'8[ b g] c8[ g b] g'8[ f' e'] |
   f8[ a c'] e'8[ c' a] f8[ a c'] g'8[ f' e'] |
 }

@@ -49,7 +49,7 @@ chorus = {
 }
 
 verse = {
-  f-sharp8[ b\3 d' f-sharp'] f-sharp'16[ d' b\3] e'16[ d' b\3] e'8 |
+  % f-sharp8[ b\3 d' f-sharp'] f-sharp'16[ d' b\3] e'16[ d' b\3] e'8 |
   b,8[ e g b] b16[ g e] b16[ g d] b8 |
   c-sharp[ f-sharp a c-sharp'] c-sharp'16[ a f-sharp] b16[ a f-sharp] b8 |
   % b8\4[ d'\3 f-sharp'\2 b'] b'16[ f-sharp'\2 d'\3] e'16[ f-sharp'\2 d'\3] e'8 |
