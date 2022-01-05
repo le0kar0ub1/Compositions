@@ -59,7 +59,7 @@ intro = {
 bridge = {
     a,8[ e a] c'8[ a e] a,8[ e] |
     a8[ c' d' e'] d8[ a d' f'] |
-    d'8[ a] d8[ a d'] f'8[ g' a'] |
+    d'8[ a] d8[ a d'] e'8[ f' g'] |
     g,8[ g d'] g'8[ d' g] g,8[ g] |
     d'4 g'4 \glissando a'4 b'4 |
     <a, e'\3 c''>2 <d\5 f'\2 a'>2 |
@@ -72,7 +72,14 @@ inner = {
     a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
     d8\5[ a\4 d'\3 f'\2] d'8\3[ e'\3 f'\2 g'\2] |
     \arpeggioArrowDown<f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
-    f'8[ \glissando g'] a'4 <g\4 b'>2 |
+    <g b'(>8[ <d a')>] <f, g'>4 <d f'>4 <b\4 e'>4  |
+
+    \arpeggioArrowDown<a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
+    a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
+    d8\5[ a\4 d'\3 f'\2] d'8\3[ e'\3 f'\2 g'\2] |
+    \arpeggioArrowDown<f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
+
+    f'8[ \glissando g'] a'4 \arpeggioArrowDown<g\4 d'\3 g'\2 b'>2\arpeggio |
 }
 
 outro = {
