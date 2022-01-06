@@ -72,7 +72,7 @@ inner = {
     a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
     d8\5[ a\4 d'\3 f'\2] d'8\3[ e'\3 f'\2 g'\2] |
     \arpeggioArrowDown<f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
-    <g b'(>8[ <d a')>] <f, g'>4 <d f'>4 <b\4 e'>4  |
+    <g b'(>8[ <d a')>] <f, g'>4 <d f'>4 <a, e'>4  |
 
     \arpeggioArrowDown<a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
     a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
@@ -109,15 +109,17 @@ outro = {
 }
 
 outro_end = {
-  <f,~ g(>8[ <a) f,>] b4\3 <a, c'\3>2 |
-  <d b\3>2 <a, c'\3>2 |
+  <f,~ g(>8 <a) f,>4. b2\3 |
+  <a, c'\3>1 |
+  <d b\3>1 |
+  <a, c'\3>1 |
 }
 
 full_part = {
     \intro
     \bridge
     \inner
-    \bridge
+    % \bridge
     \outro
     \bridge
     \outro_end

@@ -48,6 +48,11 @@ intro = {
     d'4 e'4\2 <a, c-sharp'>2 |
     c-sharp'4 e'4\2 <g, b>2 |
     b4 <g, b>2 b4 |
+
+    b8\3[ c-sharp'] d'4 <b, d'>2 |
+    d'4 e'4 <a, c-sharp'>2 |
+    c-sharp'4 e'4 <g, b>2 |
+    b4 <g, b>2 b4 |
 }
 
 main = {
