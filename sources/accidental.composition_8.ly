@@ -67,23 +67,23 @@ chorus = {
     d8[ b\3 f-sharp'\2] d8[ b\3 f-sharp'\2] |
     a'8\2[ e'\2 d'\2] <c g e'>4.|
     c8[ g e'] c8[ g e'] |
-    d'[ c' b] <g, d b>4. |
+    d'4 c'4 b4 |
 }
 
 bridge = {
-    <e, e'>4 f-sharp'4 <d g'>4 |
+    <e e'>4 f-sharp'4 <d g'>4 |
     a'4 <g, b'>4 a'4 |
-    <a, c''>4 e''4\harmTwelveMarkup <b\4 f-sharp'\3 d''>4 |
+    <a, c''>4 e'4\harmTwelveMarkup <b\4 f-sharp'\3 d''>4 |
     b'4 <a, e'\3 c''>4 d''4 |
-    e''4\harmTwelveMarkup <g\4 b'>4 c''4 |
+    e''4 <g\4 b'>4 c''4 |
     g'4 <d a'>4 g'4 |
-    f-sharp'4 <e, e'>2~ |
+    f-sharp'4 <e e'>2~ |
 
-    <e, e'>4 f-sharp'4 <d g'>4 |
+    <e e'>4 f-sharp'4 <d g'>4 |
     a'4 <g, b'>4 a'4 |
-    <a, c''>4 e''4\harmTwelveMarkup <b\4 f-sharp'\3 d''>4 |
+    <a, c''>4 e'4\harmTwelveMarkup <b\4 f-sharp'\3 d''>4 |
     b'4 <a, e'\3 c''>4 d''4 |
-    e''4\harmTwelveMarkup <g\4 b'>4 c''4 |
+    e''4 <g\4 b'>4 c''4 |
     g'4 <d a'>4 g'4 |
     f-sharp'4 <e, e'>2 |
 }
