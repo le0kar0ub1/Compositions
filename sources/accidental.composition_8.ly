@@ -90,6 +90,7 @@ bridge = {
 
 outro = {
     \intro
+    \deadNote <e, a d g b e'>4 -\markup { \center-align \abs-fontsize #12 { mute }} r2  |
     e,4 \tuplet 3/2 { g4\harmTwelveMarkup b4\harmTwelveMarkup e'4\harmTwelveMarkup } |
 }
 

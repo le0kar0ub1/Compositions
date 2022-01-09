@@ -41,13 +41,13 @@ intro = {
     <d\laissezVibrer f'>4 f'2. |
     <g,\laissezVibrer b>4 b2. |
     <g,\laissezVibrer e'>4 b2. |
-    <f, c'>1 |
+    <f, a>1 |
 
     <a,\laissezVibrer c'>4 c'2 e'4 |
     <d\laissezVibrer f'>4 f'2 g'4 |
     <g,\laissezVibrer b>4 b2. |
     <g,\laissezVibrer e'>4 b2. |
-    <f c'>1 |
+    <f, a>1 |
 
     <a,\laissezVibrer c'>4 c'2 d'8[ e'\2] |
     <d\laissezVibrer f'>4 f'2 g'8[ a'] |
@@ -87,13 +87,13 @@ outro = {
     <d\laissezVibrer f'>4 f'2 g'8[ a'] |
     <g,\laissezVibrer b>4 b2. |
     <g,\laissezVibrer e'>4 b2. |
-    <f c'>1 |
+    <f, a>1 |
 
     <a,\laissezVibrer c'>4 c'2 e'4 |
     <d\laissezVibrer f'>4 f'2 g'4 |
     <g,\laissezVibrer b>4 b2. |
     <g,\laissezVibrer e'>4 b2. |
-    <f, c'>1 |
+    <f, a>1 |
 
     <a,\laissezVibrer c'>4 c'2. |
     <d\laissezVibrer f'>4 f'2. |
