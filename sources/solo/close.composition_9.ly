@@ -73,18 +73,20 @@ main = {
     a,8[ g c'] g'4 f'16[ e'] |
     \arpeggioArrowDown<f, g c' e'>2.\arpeggio |
 
-    \arpeggioArrowDown<c\6 g g'\2 c''>2\arpeggio f'8\2[ e'\2] |
-    \arpeggioArrowDown<g, g d' g'>2\arpeggio c'8[ b] |
-    \arpeggioArrowDown<a, g c' f'>2\arpeggio e'8[ d'] |
+    c8\6[ g g'\2] c''4 e''16[ d''] |
+    g,8[ g d'] g'4 b'16[ a'] |
+    a,8[ g c'] f'4 a'16[ g'] |
     \arpeggioArrowDown<f, g c' e'>2.\arpeggio |
-}
 
-bridge = {
+    c8\6[ g g'\2] c''4 b'16[ a'] |
+    g,8[ g d'] g'4 f'16[ e'] |
+    a,8[ g c'] f'4 e'16[ d'] |
+    \arpeggioArrowDown<f, g c' e'>2.\arpeggio |
+
     \arpeggioArrowDown<c\6 b\4 d'\3 g'\2>2.\arpeggio |
     \arpeggioArrowDown<g, f-sharp a d'>2.\arpeggio |
     \arpeggioArrowDown<a, c'\3 e'\2 b'>2.\arpeggio |
     \arpeggioArrowDown<f a c' g'>2.\arpeggio |
-    % \arpeggioArrowDown<f, c f a>\arpeggio |
 }
 
 outro = {
@@ -92,7 +94,11 @@ outro = {
     \arpeggioArrowDown<g, g d' e'>2.\arpeggio |
     \arpeggioArrowDown<a, g c' f'>2.\arpeggio |
     \arpeggioArrowDown<f, g c' e'>2.\arpeggio |
-    \bridge
+    
+    \arpeggioArrowDown<c\6 b\4 d'\3 g'\2>2.\arpeggio |
+    \arpeggioArrowDown<g, f-sharp a d'>2.\arpeggio |
+    \arpeggioArrowDown<a, c'\3 e'\2 b'>2.\arpeggio |
+    \arpeggioArrowDown<f, c f a>\arpeggio |
 }
 
 full_part = {
@@ -100,8 +106,8 @@ full_part = {
       \intro
     }
     \alternative {
-      { \main \bridge }
-      { \outro  }
+      { \main }
+      { \outro }
     }
 }
 
