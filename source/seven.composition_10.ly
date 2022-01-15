@@ -63,7 +63,7 @@ main = {
     c''4 b'2 |
     \arpeggioArrowDown<g\4 c'\3 e'\2 a'>2.\arpeggio |
     g'4 f'2 |
-    \arpeggioArrowDown<d a d' f'>4.\arpeggio e'8[ d' c'] |
+    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
     \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
     \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
 
@@ -71,7 +71,7 @@ main = {
     c''4 b'2 |
     \arpeggioArrowDown<g\4 c'\3 e'\2 a'>2.\arpeggio |
     g'4 f'2 |
-    \arpeggioArrowDown<d a d' f'>4.\arpeggio e'8[ d' c'] |
+    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
     \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
     \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
 
@@ -79,7 +79,7 @@ main = {
 }
 
 outro = {
-    \arpeggioArrowDown<d a d' f'>4.\arpeggio e'8[ d' c'] |
+    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
     \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
     \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
     \arpeggioArrowDown<c e g c' e'>2.

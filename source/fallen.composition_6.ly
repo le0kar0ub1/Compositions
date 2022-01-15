@@ -84,9 +84,8 @@ main = {
 
     % r2 b'4\3 c-sharp''8\2[ d''\2] |
 
-    <b\4 f-sharp'\3 d''>1 |
-    <a\4 d-sharp'\3 c-sharp''>1 |
-    <g\4 c-sharp'\3 b'>2. b'8[ a'] |
+    \tuplet 3/4 { b8\4 f-sharp'8\3 d''8 } \tuplet 3/4 { a8\4 d-sharp'8\3 c-sharp''8 } |
+    \tuplet 3/4 { g8\4 c-sharp'8\3 b'8 } a'2 |
     <d f-sharp'>2 <d a'>2 |
     <d g'>2 <e e'>2 |
 }

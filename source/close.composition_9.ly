@@ -61,7 +61,7 @@ main = {
     c8\6[ g g'\2] c''4 b'16[ a'] |
     g,8[ g d'] g'4 f'16[ e'] |
     a,8[ g c'] f'4 e'16[ d'] |
-    f,8[ g c'] g'4 a'16[ c''] |
+    \arpeggioArrowDown<f, g c' e'>2.\arpeggio |
 
     c8\6[ g g'\2] c''4 d''16[ a'] |
     g,8[ g d'] g'4 a'16[ e'] |
