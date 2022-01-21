@@ -77,14 +77,6 @@ bridge = {
     b'4 <a, e'\3 c''>4 d''4 |
     e''4 <g\4 b'>4 c''4 |
     g'4 <d a'>4 g'4 |
-    f-sharp'4 <e e'>2~ |
-
-    <e e'>4 f-sharp'4 <d g'>4 |
-    a'4 <g, b'>4 a'4 |
-    <a, c''>4 e'4\harmTwelveMarkup <b\4 f-sharp'\3 d''>4 |
-    b'4 <a, e'\3 c''>4 d''4 |
-    e''4 <g\4 b'>4 c''4 |
-    g'4 <d a'>4 g'4 |
     f-sharp'4 <e, e'>2 |
 }
 
