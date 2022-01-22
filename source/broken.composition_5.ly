@@ -95,8 +95,8 @@ verse = {
 bridge = {
   <a, e'\3 c''>2. |
   <b' g\4>2. |
-  \arpeggioArrowDown<f a c' g'>2.\arpeggio |
-  \arpeggioArrowDown<f, c f a>2.\arpeggio |
+  <f a c' g'>2.\arpeggio |
+  <f, c f a>2.\arpeggio |
 }
 
 outro = {

@@ -59,42 +59,42 @@ intro = {
 }
 
 main = {
-    \arpeggioArrowDown<c'\4 f'\3 a'\2 d''>2.\arpeggio |
+    <c'\4 f'\3 a'\2 d''>2.\arpeggio |
     c''4 b'2 |
-    \arpeggioArrowDown<g\4 c'\3 e'\2 a'>2.\arpeggio |
+    <g\4 c'\3 e'\2 a'>2.\arpeggio |
     g'4 f'2 |
-    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
-    \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
-    \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
+    <d a c' f'>4.\arpeggio e'8[ d' c'] |
+    <f a c' e'>4.\arpeggio b 8[ a g] |
+    <f, c f a>4.\arpeggio g-sharp8[ f d] |
 
-    \arpeggioArrowDown<c'\4 f'\3 a'\2 d''>2.\arpeggio |
+    <c'\4 f'\3 a'\2 d''>2.\arpeggio |
     c''4 b'2 |
-    \arpeggioArrowDown<g\4 c'\3 e'\2 a'>2.\arpeggio |
+    <g\4 c'\3 e'\2 a'>2.\arpeggio |
     g'4 f'2 |
-    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
-    \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
-    \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
+    <d a c' f'>4.\arpeggio e'8[ d' c'] |
+    <f a c' e'>4.\arpeggio b 8[ a g] |
+    <f, c f a>4.\arpeggio g-sharp8[ f d] |
 
-    \arpeggioArrowDown<c e g c' e'>2.
+    <c e g c' e'>2.
 }
 
 outro = {
-    \arpeggioArrowDown<d a c' f'>4.\arpeggio e'8[ d' c'] |
-    \arpeggioArrowDown<f a c' e'>4.\arpeggio b 8[ a g] |
-    \arpeggioArrowDown<f, c f a>4.\arpeggio g-sharp8[ f d] |
-    \arpeggioArrowDown<c e g c' e'>2.
+    <d a c' f'>4.\arpeggio e'8[ d' c'] |
+    <f a c' e'>4.\arpeggio b 8[ a g] |
+    <f, c f a>4.\arpeggio g-sharp8[ f d] |
+    <c e g c' e'>2.
 
     e8\5[ g b] e'[ b g] |
     d8\5[ g b] e'[ b g] |
     c8[ g b] e'[ b g] |
     c8[ g d'] e'[ d' g] |
-    \arpeggioArrowDown<c e g c' e'>2.
+    <c e g c' e'>2.
 
     e8\5[ g b] e'[ b g] |
     d8\5[ g b] e'[ b g] |
     c8[ g b] e'[ b g] |
     c8[ g d'] e'[ d' g] |
-    \arpeggioArrowDown<e, g\4 b\3 e'\2>2.\arpeggio |
+    <e, g\4 b\3 e'\2>2.\arpeggio |
 }
 
 full_part = {

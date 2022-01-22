@@ -44,7 +44,7 @@ intro = {
     a'8[ b g] f-sharp'4. |
 
     d8[ a d'] a'8[ d' a] |
-    g'8[ d' a] \arpeggioArrowDown<d a d' f-sharp'>4. |
+    g'8[ d' a] <d a d' f-sharp'>4.\arpeggio |
     r4. b8[ d' e'] |
 }
 
@@ -55,7 +55,7 @@ bridge = {
     <b\3 g'>4 <c-sharp'\3 a'>4 b'4 |
     <g d''>4 c-sharp''16[ b' a'8] e'4 |
     <c-sharp'\3 a'>4 <b\3 g'>4 e'4 |
-    \arpeggioArrowDown<d a d' f-sharp'>2.\arpeggio |
+    <d a d' f-sharp'>2.\arpeggio |
 }
 
 part_one = {

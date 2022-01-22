@@ -53,7 +53,7 @@ intro = {
     <d\laissezVibrer f'>4 f'2 g'8[ a'] |
     <g,\laissezVibrer b>4 b2. |
     <g,\laissezVibrer e'>4 b2. |
-    \arpeggioArrowDown<f, c f a>1\arpeggio |
+    <f, c f a>1\arpeggio |
 }
 
 bridge = {
@@ -68,18 +68,18 @@ bridge = {
 }
 
 inner = {
-    \arpeggioArrowDown<a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
-    a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
+    <a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
+    a8\4[ b\4 c'\3 d'\3] <d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
     d8\5[ a\4 d'\3 f'\2] d'8\3[ e'\3 f'\2 g'\2] |
-    \arpeggioArrowDown<f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
+    <f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
     <g b'(>8[ <d a')>] <f, g'>4 <d f'>4 <a, e'>4  |
 
-    \arpeggioArrowDown<a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
-    a8\4[ b\4 c'\3 d'\3] \arpeggioArrowDown<d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
+    <a,\6 e\5 a\4 c'\3 e'\2 a'>2\arpeggio a,8\6[ e\5 a\4 c'\3] |
+    a8\4[ b\4 c'\3 d'\3] <d\5 a\4 d'\3 f'\2 a'>2\arpeggio |
     d8\5[ a\4 d'\3 f'\2] d'8\3[ e'\3 f'\2 g'\2] |
-    \arpeggioArrowDown<f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
+    <f c'\3 f'\2 a'>2\arpeggio f8[ c'\3 f'\2 a'] |
 
-    f'8[ \glissando g'] a'4 \arpeggioArrowDown<g\4 d'\3 g'\2 b'>2\arpeggio |
+    f'8[ \glissando g'] a'4 <g\4 d'\3 g'\2 b'>2\arpeggio |
 }
 
 outro = {
@@ -105,7 +105,7 @@ outro = {
     <d f'>1 |
     <g, b>1 |
     <g, e'>1 |
-    \arpeggioArrowDown<f, c f a>1\arpeggio |
+    <f, c f a>1\arpeggio |
 }
 
 outro_end = {

@@ -52,7 +52,7 @@ verse = {
 
 outro = {
   g,8[ d g d' g' d' g d g,] 
-  \arpeggioArrowDown<d g d' g'>1\arpeggio\fermata
+  <d g d' g'>1\arpeggio\fermata
 }
 
 
