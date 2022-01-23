@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Compositions
 
-You can use the [editor on GitHub](https://github.com/le0kar0ub1/Compositions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A set of original compositions by Leo Karoubi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All music sheets are encoded using [lilypond](https://lilypond.org), which is a part encoder from the GNU project.
 
-### Markdown
+The `source` directory contain text file as code and the `musicsheet` contain lilypond's transposed pdf.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a great [open and free basic music theory course](https://cnx.org/exports/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.74.pdf/understanding-basic-music-theory-3.74.pdf/exports/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.74.pdf/understanding-basic-music-theory-3.74.pdf).
 
-```markdown
-Syntax highlighted code block
+Under Creative Common 0 (CC0) license.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/le0kar0ub1/Compositions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Title                     | Metadata                      | Date    | Artist        | Music sheet                                  | Audio link  
+--------------------------|-------------------------------|---------|---------------|----------------------------------------------|-----------
+Dropped                   | Acoustic journey - Track 1    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/dropped.composition_1.ly)             |
+Night Walk                | Acoustic journey - Track 2    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/night_walk.composition_2.ly)          | [audio](https://soundcloud.com/user-976102026/night-walk-acoustic-journey-track-2)
+Last sigh                 | Acoustic journey - Track 3    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/a_minor_journey.composition_3.ly)     |
+A minor journey           | Acoustic journey - Track 4    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/last_sigh.composition_4.ly)           |
+Broken                    | Acoustic journey - Track 5    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/broken.composition_5.ly)              |
+Exhausted                 | Acoustic journey - Track 6    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/fallen.composition_6.ly)              |
+Fallen                    | Acoustic journey - Track 7    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/exhausted.composition_7.ly)           |
+Accidental                | Acoustic journey - Track 8    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/accidental.composition_8.ly)          |
+Close                     | Acoustic journey - Track 9    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/close.composition_9.ly)               |
+Seven                     | Acoustic journey - Track 10   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/seven.composition_10.ly)              |
+Gone                      | Acoustic journey - Track 11   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/gone.composition_11.ly)               |
