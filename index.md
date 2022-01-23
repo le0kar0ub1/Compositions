@@ -12,14 +12,14 @@ Under Creative Common 0 (CC0) license.
 
 Title                     | Metadata                      | Date    | Artist        | Music sheet                                  | Audio link  
 --------------------------|-------------------------------|---------|---------------|----------------------------------------------|-----------
-Dropped                   | Acoustic journey - Track 1    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/dropped.composition_1.ly)             |
-Night Walk                | Acoustic journey - Track 2    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/night_walk.composition_2.ly)          | [audio](https://soundcloud.com/user-976102026/night-walk-acoustic-journey-track-2)
-Last sigh                 | Acoustic journey - Track 3    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/a_minor_journey.composition_3.ly)     |
-A minor journey           | Acoustic journey - Track 4    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/last_sigh.composition_4.ly)           |
-Broken                    | Acoustic journey - Track 5    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/broken.composition_5.ly)              |
-Exhausted                 | Acoustic journey - Track 6    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/fallen.composition_6.ly)              |
-Fallen                    | Acoustic journey - Track 7    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/exhausted.composition_7.ly)           |
-Accidental                | Acoustic journey - Track 8    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/accidental.composition_8.ly)          |
-Close                     | Acoustic journey - Track 9    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/close.composition_9.ly)               |
-Seven                     | Acoustic journey - Track 10   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/seven.composition_10.ly)              |
-Gone                      | Acoustic journey - Track 11   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/gone.composition_11.ly)               |
+Dropped                   | Acoustic journey - Track 1    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/dropped.composition_1.pdf)             |
+Night Walk                | Acoustic journey - Track 2    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/night_walk.composition_2.pdf)          | [audio](https://soundcloud.com/user-976102026/night-walk-acoustic-journey-track-2)
+Last sigh                 | Acoustic journey - Track 3    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/a_minor_journey.composition_3.pdf)     |
+A minor journey           | Acoustic journey - Track 4    | 12/2021 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/last_sigh.composition_4.pdf)           |
+Broken                    | Acoustic journey - Track 5    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/broken.composition_5.pdf)              |
+Exhausted                 | Acoustic journey - Track 6    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/fallen.composition_6.pdf)              |
+Fallen                    | Acoustic journey - Track 7    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/exhausted.composition_7.pdf)           |
+Accidental                | Acoustic journey - Track 8    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/accidental.composition_8.pdf)          |
+Close                     | Acoustic journey - Track 9    | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/close.composition_9.pdf)               |
+Seven                     | Acoustic journey - Track 10   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/seven.composition_10.pdf)              |
+Gone                      | Acoustic journey - Track 11   | 01/2022 | Leo Karoubi   | [sheet](https://github.com/le0kar0ub1/Compositions/blob/master/musicsheet/gone.composition_11.pdf)               |
